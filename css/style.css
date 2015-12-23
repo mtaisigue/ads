@@ -1,0 +1,18 @@
+*{padding:0; margin:0;}
+html, body{ height:100%;}
+body{ font-size:12px; line-height:17px; font-family:Arial, Helvetica, sans-serif;}
+a{ color:#066;}
+
+#sheets{ margin-bottom:15px;}
+.input{ width:140px; padding:3px; margin-right:4px; border:1px solid #CCC;}
+.table .col1, .table .col2, .table .col3, .table .col4, .table .col5, .table .col6{ float:left; min-height:10px;}
+.table .col1{ width:210px;}
+.table .col2{ width:160px}
+.table .col3{ width:160px}
+.table .col4{ width:320px}
+.table .col5{ width:100px}
+.table .col6{}
+.clear{ clear:both;}
+.row{ border-bottom:1px solid #EEE; padding:4px;}
+.msg_error{ background:#feffc6; border:1px solid #dddf59; float:left; padding:3px; display:none;}
+.createform{ margin-top:30px;}
